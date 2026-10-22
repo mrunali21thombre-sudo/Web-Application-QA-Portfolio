@@ -1,0 +1,7 @@
+Test Case ID,Feature,Scenario,Preconditions,Steps,Expected Result,Actual Result,Status,Priority,Execution Date,Notes
+TC-001,Homepage,Verify page opens,Internet connection available,Open https://example.com,Homepage loads successfully,Not executed,Not Run,High,,
+TC-002,Homepage,Verify page title,Homepage is reachable,Read browser page title,Title contains Example Domain,Not executed,Not Run,Medium,,
+TC-003,Homepage,Verify main heading,Homepage is reachable,Inspect the main heading,Example Domain heading is visible,Not executed,Not Run,Medium,,
+TC-004,Navigation,Verify information link is visible,Homepage is reachable,Locate More information link,Link is visible and has a valid destination,Not executed,Not Run,Medium,,
+TC-005,Compatibility,Check homepage in another browser,Second browser installed,Open page in a second browser,Content remains readable and key elements are visible,Not executed,Not Run,Low,,
+TC-006,Usability,Check keyboard focus,Homepage is reachable,Use Tab to move through interactive elements,Focus is visible and follows a sensible order,Not executed,Not Run,Low,,
